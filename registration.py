@@ -1,4 +1,3 @@
-print("Register to vote, your vote is your power to make a change")
 
 party_list = []
 
@@ -10,12 +9,13 @@ def register_party(party_name, reg_number, member_count):
             "member_count": member_count
 
         })
-        print("Registered!")
+        print(f"{party_name} Party Registered!")
 
     else:
         print("not eligible to Register!")
 
-register_party("nkata", 123, 500)
+
+register_party("MK", 10003319, 5300)
 
         
 
