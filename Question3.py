@@ -11,4 +11,23 @@ print(foot_ball["Club"])
 #3.3.2
 print(foot_ball.loc[10,"Name"])
 
+#q3.3.3
+print("Player index 100")
+print(foot_ball.loc[100,"Goals"])
+print(foot_ball.loc[100,"Appearance"])
+
+print("Player index 110")
+print(foot_ball.loc[110,"Goals"])
+print(foot_ball.loc[110,"Appearance"])
+
+#q3.3.4
+foot_ball["Goals_Per_Appearance"] = []
+
+
+
+
+
+
+
+
 
