@@ -26,7 +26,7 @@ def update_voter_info(voter_id):
 #question 2.4
 parties = ["ASC", "ATM", "AASD", "ANC", "AGANG SA", "ALJAMA", "AZAPO", "APC", "BRA", "BLF", "ZACP", "CPM", "CSA", "DOPE", "DA", "DLC","ECOFORUM", "EFF", "F4SD", "FREE DEMS"]
 
-my_parties = filter([n for n in parties if])
+#my_parties = filter[n for n in parties if])
 
     
     
