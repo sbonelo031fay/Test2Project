@@ -28,6 +28,7 @@ parties = ["ASC", "ATM", "AASD", "ANC", "AGANG SA", "ALJAMA", "AZAPO", "APC", "B
 
 #my_parties = filter[n for n in parties if])
 
+
     
     
 
